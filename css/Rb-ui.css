@@ -1,0 +1,288 @@
+/*!Responsive Boilerplate - UI Component -v.0.1.0 */
+/* Author: Fernando Monteiro at www.responsiveboilerplate.com
+   Licensed under MIT license, http://opensource.org/licenses/mit-license.php
+*/
+/* Copyright (c) 2013*/
+/*!Last Build: Jul2013*/
+/*==============================General Menu style============================*/
+/*==============================General form style============================*/
+.Rb-ui form {
+  margin: 0 0 25px;
+}
+.Rb-ui select,
+.Rb-ui textarea,
+.Rb-ui input[type="text"],
+.Rb-ui input[type="password"],
+.Rb-ui input[type="datetime"],
+.Rb-ui input[type="datetime-local"],
+.Rb-ui input[type="date"],
+.Rb-ui input[type="month"],
+.Rb-ui input[type="time"],
+.Rb-ui input[type="week"],
+.Rb-ui input[type="number"],
+.Rb-ui input[type="email"],
+.Rb-ui input[type="url"],
+.Rb-ui input[type="search"],
+.Rb-ui input[type="tel"],
+.Rb-ui input[type="color"] {
+  padding: 8px 4px;
+  margin-bottom: 12.5px;
+  margin-top: 5px;
+  line-height: 25px;
+  color: #6c6f70;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  vertical-align: middle;
+  width: 98%;
+  background-color: #ffffff;
+  border: 1px solid #cccccc;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  font: normal 0.835em Arial, Helvetica, sans-serif;
+}
+.Rb-ui select:focus,
+.Rb-ui textarea:focus,
+.Rb-ui input[type="text"]:focus,
+.Rb-ui input[type="password"]:focus,
+.Rb-ui input[type="datetime"]:focus,
+.Rb-ui input[type="datetime-local"]:focus,
+.Rb-ui input[type="date"]:focus,
+.Rb-ui input[type="month"]:focus,
+.Rb-ui input[type="time"]:focus,
+.Rb-ui input[type="week"]:focus,
+.Rb-ui input[type="number"]:focus,
+.Rb-ui input[type="email"]:focus,
+.Rb-ui input[type="url"]:focus,
+.Rb-ui input[type="search"]:focus,
+.Rb-ui input[type="tel"]:focus,
+.Rb-ui input[type="color"]:focus {
+  color: #454743;
+  border-color: rgba(82, 168, 236, 0.8);
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(82,168,236,.6);
+  -moz-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(82,168,236,.6);
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(82,168,236,.6);
+}
+.Rb-ui select {
+  width: 100%;
+}
+.Rb-ui input[type="radio"],
+.Rb-ui input[type="checkbox"] {
+  display: inline;
+  width: auto;
+  margin-bottom: 0;
+}
+.Rb-ui input.inline {
+  width: 50%;
+  display: block;
+}
+.Rb-ui label,
+.Rb-ui legend {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.Rb-ui label {
+  font-weight: bold;
+  font-size: 0.835em;
+  margin-bottom: 5px;
+  color: #797272;
+}
+.Rb-ui fieldset {
+  padding: 9px;
+  border: solid 1px #dddddd;
+  margin: 18px 0;
+}
+.Rb-ui legend {
+  font-size: 0.835em;
+  color: #797272;
+}
+.btn {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  padding: 4px 12px;
+  margin-bottom: 0;
+  font-size: 0.835em;
+  font-family: inherit;
+  line-height: 25px;
+  *line-height: 25px;
+  color: #ffffff;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  background-color: #555555;
+  border: 1px solid #484848;
+  *border: 0;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  *margin-left: .3em;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,.2), 0 1px 2px rgba(0,0,0,.05);
+  -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,.2), 0 1px 2px rgba(0,0,0,.05);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,.2), 0 1px 2px rgba(0,0,0,.05);
+}
+.btn:first-child {
+  *margin-left: 0;
+}
+.btn:hover {
+  color: #ededed;
+  text-decoration: none;
+  background-color: #626262;
+  -webkit-transition: all 500ms ease-in-out;
+  -moz-transition: all 500ms ease-in-out;
+  -o-transition: all 500ms ease-in-out;
+  -ms-transition: all 500ms ease-in-out;
+  transition: all 500ms ease-in-out;
+}
+.btn:focus {
+  outline: thin dotted #333;
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+.btn.active,
+.btn:active {
+  background-color: #6f6f6f;
+  outline: 0;
+  box-shadow: inset 0px 1px 1px 0px #3b3b3b;
+}
+.btn.disabled,
+.btn[disabled] {
+  cursor: default;
+  background-color: #e6e6e6;
+  background-image: none;
+  opacity: 0.65;
+  filter: alpha(opacity=65);
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+.blue {
+  background-color: #003a69;
+  border: 1px solid #002c50;
+}
+.blue:hover {
+  text-decoration: none;
+  background-color: #004883;
+  -webkit-transition: all 500ms ease-in-out;
+  -moz-transition: all 500ms ease-in-out;
+  -o-transition: all 500ms ease-in-out;
+  -ms-transition: all 500ms ease-in-out;
+  transition: all 500ms ease-in-out;
+}
+.blue.active,
+.blue:active {
+  background-color: #00569c;
+  outline: 0;
+}
+.green {
+  background-color: #0d9d8c;
+  border: 1px solid #0b8577;
+}
+.green:hover {
+  text-decoration: none;
+  background-color: #0fb5a1;
+  -webkit-transition: all 500ms ease-in-out;
+  -moz-transition: all 500ms ease-in-out;
+  -o-transition: all 500ms ease-in-out;
+  -ms-transition: all 500ms ease-in-out;
+  transition: all 500ms ease-in-out;
+}
+.green.active,
+.green:active {
+  background-color: #11ccb6;
+  outline: 0;
+}
+.red {
+  background-color: #a62d38;
+  border: 1px solid #922831;
+}
+.red:hover {
+  text-decoration: none;
+  background-color: #ba323f;
+  -webkit-transition: all 500ms ease-in-out;
+  -moz-transition: all 500ms ease-in-out;
+  -o-transition: all 500ms ease-in-out;
+  -ms-transition: all 500ms ease-in-out;
+  transition: all 500ms ease-in-out;
+}
+.red.active,
+.red:active {
+  background-color: #ca3c49;
+  outline: 0;
+}
+.orange {
+  background-color: #e57200;
+  border: 1px solid #cc6500;
+}
+.orange:hover {
+  text-decoration: none;
+  background-color: #ff7f00;
+  -webkit-transition: all 500ms ease-in-out;
+  -moz-transition: all 500ms ease-in-out;
+  -o-transition: all 500ms ease-in-out;
+  -ms-transition: all 500ms ease-in-out;
+  transition: all 500ms ease-in-out;
+}
+.orange.active,
+.orange:active {
+  background-color: #ff8b19;
+  outline: 0;
+}
+.turkese {
+  background-color: #44687d;
+  border: 1px solid #3b5a6c;
+}
+.turkese:hover {
+  text-decoration: none;
+  background-color: #4d768e;
+  -webkit-transition: all 500ms ease-in-out;
+  -moz-transition: all 500ms ease-in-out;
+  -o-transition: all 500ms ease-in-out;
+  -ms-transition: all 500ms ease-in-out;
+  transition: all 500ms ease-in-out;
+}
+.turkese.active,
+.turkese:active {
+  background-color: #56839e;
+  outline: 0;
+}
+.big {
+  padding: 10px 20px;
+  font-size: 17.5px;
+}
+.small {
+  padding: 2px 6px;
+  font-size: 10px;
+}
+/*==============================General Tabs style============================*/
+/*==============================General Accordion style============================*/
+.RbaccordionHeading {
+  padding: 10px;
+  background-color: #cccccc;
+  border-bottom: 1px solid #ffffff;
+}
+.RbaccordionHeading h1 {
+  font-size: 1em;
+  padding: 0;
+  margin: 0;
+  color: #555555;
+}
+.RbaccordionHeading:hover {
+  background-color: #e6e6e6;
+  -webkit-transition: all 500ms ease-in-out;
+  -moz-transition: all 500ms ease-in-out;
+  -o-transition: all 500ms ease-in-out;
+  -ms-transition: all 500ms ease-in-out;
+  cursor: pointer;
+}
+.Rbactive {
+  background-color: #e6e6e6;
+}
+.Rbcontent {
+  padding: 10px;
+  background-color: #e6e6e6;
+  display: none;
+  color: #555555;
+}
+/*==============================General Modal style============================*/

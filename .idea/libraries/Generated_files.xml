@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/js/custom.min.js" />
+        <item url="file://$PROJECT_DIR$/js/Rb-ui.min.js" />
+        <item url="file://$PROJECT_DIR$/js/rb-concat.min.min.js" />
+        <item url="file://$PROJECT_DIR$/libs/jquery-1.10.1.min.min.js" />
+        <item url="file://$PROJECT_DIR$/libs/jquery-1.10.1.min.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/js/customForJquery.min.js" />
+      <root url="file://$PROJECT_DIR$/js/customForJquery.min.js" />
+      <root url="file://$PROJECT_DIR$/js/ui-modal.min.js" />
+      <root url="file://$PROJECT_DIR$/js/ui-accordion.min.js" />
+      <root url="file://$PROJECT_DIR$/js/ui-tabs.min.js" />
+      <root url="file://$PROJECT_DIR$/js/ui-menu.min.js" />
+      <root url="file://$PROJECT_DIR$/js/ui-modal.min.js" />
+      <root url="file://$PROJECT_DIR$/js/ --js_output_file rb-concat.min.js" />
+      <root url="file://$PROJECT_DIR$/js/ui-accordion.min.js" />
+      <root url="file://$PROJECT_DIR$/js/ui-tabs.min.js" />
+      <root url="file://$PROJECT_DIR$/js/ui-menu.min.js" />
+      <root url="file://$PROJECT_DIR$/libs/jquery-2.0.2.min.min.js" />
+      <root url="file://$PROJECT_DIR$/libs/jquery-2.0.2.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/Rb-ui.min.js" />
+      <root url="file://$PROJECT_DIR$/js/custom.min.js" />
+      <root url="file://$PROJECT_DIR$/js/rb-concat.min.min.js" />
+      <root url="file://$PROJECT_DIR$/libs/jquery-1.10.1.min.min.js" />
+      <root url="file://$PROJECT_DIR$/libs/jquery-1.10.1.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
