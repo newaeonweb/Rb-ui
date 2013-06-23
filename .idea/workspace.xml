@@ -19,7 +19,7 @@
     <file path="D:/Projeto/SSG_PROJETO/SSG_GISSONLINE/SSG.APP/css/login.css" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370457415213" ignored="false" />
     <file path="/login.css" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370457387371" ignored="false" />
     <file path="D:/Projeto/SSG_PROJETO/SSG_GISSONLINE/SSG.APP/css/login.min.css" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370457416641" ignored="false" />
-    <file path="/Dummy.txt" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370467578256" ignored="false" />
+    <file path="/Dummy.txt" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1372031059468" ignored="false" />
     <file path="/variables.less" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370468008826" ignored="false" />
     <file path="/responsiveboilerplate.less" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370611092670" ignored="false" />
     <file path="/Rb-ui.css" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1371153702666" ignored="false" />
@@ -73,7 +73,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="172" column="97" selection-start="9624" selection-end="9624" vertical-scroll-proportion="0.042424243">
+            <state line="172" column="97" selection-start="9624" selection-end="9624" vertical-scroll-proportion="0.042596348">
               <folding>
                 <element signature="tag#div#0;tag#div#0;tag#div#1;tag#div#2;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -213,7 +213,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="settings" />
+    <property name="options.lastSelected" value="settings.github" />
     <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/Rb-site" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
@@ -509,7 +509,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="172" column="97" selection-start="9624" selection-end="9624" vertical-scroll-proportion="0.042424243">
+        <state line="172" column="97" selection-start="9624" selection-end="9624" vertical-scroll-proportion="0.042596348">
           <folding>
             <element signature="tag#div#0;tag#div#0;tag#div#1;tag#div#2;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
