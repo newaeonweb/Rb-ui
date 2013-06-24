@@ -8,6 +8,7 @@
     font-weight: normal;
     font-style: normal;
 }
+
 /* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
 /* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
 @media screen and (-webkit-min-device-pixel-ratio:0) {
@@ -16,6 +17,7 @@
         src: url('../font/fontello.svg?83797712#fontello') format('svg');
     }
 }
+
 [class^="icon-"]:before,
 [class*=" icon-"]:before {
     font-family: 'fontello', sans-serif;
@@ -131,6 +133,7 @@ body {
     margin: 10px auto;
     text-align: center;
 }
+
 .features p {
     margin-bottom: 20px;
 }
@@ -160,6 +163,7 @@ body {
     margin-top: 50px;
     border-radius: 30px;
 }
+
 .modules h1 {
     font-size: 1.5em;
     font-weight: bold;
@@ -168,6 +172,7 @@ body {
     padding-top: 20px;
     text-align: center;
 }
+
 .modules h2 {
     font-size: 1.1em;
     font-weight: bold;
@@ -175,8 +180,9 @@ body {
     margin: 20px auto;
     text-align: center;
 }
+
 .accordion, .formExample {
-    width:80%;
+    width: 80%;
     margin: 0 auto;
 }
 
@@ -185,23 +191,23 @@ body {
     margin-left: 1%;
     width: 48.5%;
 }
+
 .buttonColumn .btn {
     margin-bottom: 10px;
 }
 
 .share {
     margin: 20px auto;
-    width: 100px;
+    width: 220px;
     text-align: center;
 }
-
 
 footer a {
     color: #00569c;
 }
 
 footer a:hover {
-    color:#cc6500;
+    color: #cc6500;
 }
 
 @media screen and (max-width:768px) {
@@ -209,12 +215,15 @@ footer a:hover {
         width: 100%;
     }
 }
+
 footer {
     margin: 20px auto;
 }
+
 footer p {
     text-align: center;
 }
+
 #nav a {
     color: #0088cc;
 }
