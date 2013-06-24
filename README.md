@@ -1,4 +1,4 @@
-<h1>Responsive Boilerplate Rb-ui V.0.1.0 - UI Component</h1>
+<h1>Rb-ui(<small>Responsive Boilerplate</small>) V.0.1.0 - UI Component</h1>
 
 <strong>Work in Progress</strong>
 ===================================================================
