@@ -10,16 +10,15 @@ Simple JavaScript and CSS for Responsive Interface Components.
 
 
 ===================================================================
+<h3>CONTRIBUTE</h3>
 
---Folder & File Structure--
-
+All contributions are welcome, feel free to dorp us a line!
 
 
 ====================================================================
 
-More infos and an extra package with more features check it out: http://www.newaeonweb.com.br/responsiveaeon/
+More infos coming soon.
 
-A simple demo can be checked here: http://www.newaeonweb.com.br/responsiveaeon/demo/demo.html
 
 Enjoy and contribute!
 
