@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40adb385-302b-44b3-930a-5921c5106fea" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Rb-ui.iws" />
@@ -22,7 +21,7 @@
     <file path="D:/Projeto/SSG_PROJETO/SSG_GISSONLINE/SSG.APP/css/login.css" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370457415213" ignored="false" />
     <file path="/login.css" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370457387371" ignored="false" />
     <file path="D:/Projeto/SSG_PROJETO/SSG_GISSONLINE/SSG.APP/css/login.min.css" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370457416641" ignored="false" />
-    <file path="/Dummy.txt" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1372033471222" ignored="false" />
+    <file path="/Dummy.txt" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1372033507761" ignored="false" />
     <file path="/variables.less" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370468008826" ignored="false" />
     <file path="/responsiveboilerplate.less" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370611092670" ignored="false" />
     <file path="/Rb-ui.css" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1371153702666" ignored="false" />
@@ -346,7 +345,11 @@
       <created>1372033473267</created>
       <updated>1372033473267</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="General space adjust and add some description lines">
+      <created>1372033525847</created>
+      <updated>1372033525847</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
