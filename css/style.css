@@ -189,6 +189,13 @@ body {
     margin-bottom: 10px;
 }
 
+.share {
+    margin: 20px auto;
+    width: 100px;
+    text-align: center;
+}
+
+
 footer a {
     color: #626262;
 }
