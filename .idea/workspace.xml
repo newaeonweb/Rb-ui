@@ -22,7 +22,7 @@
     <file path="D:/Projeto/SSG_PROJETO/SSG_GISSONLINE/SSG.APP/css/login.css" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370457415213" ignored="false" />
     <file path="/login.css" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370457387371" ignored="false" />
     <file path="D:/Projeto/SSG_PROJETO/SSG_GISSONLINE/SSG.APP/css/login.min.css" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370457416641" ignored="false" />
-    <file path="/Dummy.txt" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1372038782605" ignored="false" />
+    <file path="/Dummy.txt" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1372038819263" ignored="false" />
     <file path="/variables.less" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370468008826" ignored="false" />
     <file path="/responsiveboilerplate.less" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370611092670" ignored="false" />
     <file path="/Rb-ui.css" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1371153702666" ignored="false" />
@@ -384,7 +384,11 @@
       <created>1372038792237</created>
       <updated>1372038792237</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add github link">
+      <created>1372038823721</created>
+      <updated>1372038823721</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
