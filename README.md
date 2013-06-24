@@ -1,7 +1,12 @@
-Responsive Boilerplate V.0.1.0 - UI Component
+Responsive Boilerplate Rb-ui V.0.1.0 - UI Component
 
+<strong>Work in Progress</strong>
 ===================================================================
-FEATURES: 
+<h1>FEATURES:</h1>
+
+Simple JavaScript and CSS for Responsive Interface Components.
+
+
 
 
 ===================================================================
