@@ -189,6 +189,14 @@ body {
     margin-bottom: 10px;
 }
 
+footer a {
+    color: #626262;
+}
+
+footer a:hover {
+    color:#cc6500;
+}
+
 @media screen and (max-width:768px) {
     .buttonColumn {
         width: 100%;
