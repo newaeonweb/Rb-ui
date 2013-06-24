@@ -21,7 +21,7 @@
     <file path="D:/Projeto/SSG_PROJETO/SSG_GISSONLINE/SSG.APP/css/login.css" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370457415213" ignored="false" />
     <file path="/login.css" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370457387371" ignored="false" />
     <file path="D:/Projeto/SSG_PROJETO/SSG_GISSONLINE/SSG.APP/css/login.min.css" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370457416641" ignored="false" />
-    <file path="/Dummy.txt" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1372033507761" ignored="false" />
+    <file path="/Dummy.txt" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1372033531903" ignored="false" />
     <file path="/variables.less" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370468008826" ignored="false" />
     <file path="/responsiveboilerplate.less" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370611092670" ignored="false" />
     <file path="/Rb-ui.css" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1371153702666" ignored="false" />
@@ -349,7 +349,11 @@
       <created>1372033525847</created>
       <updated>1372033525847</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="General space adjust and add some description lines">
+      <created>1372033533987</created>
+      <updated>1372033533987</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
