@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40adb385-302b-44b3-930a-5921c5106fea" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Fernando\Documents\GitHub\Rb-ui\less\responsiveboilerplate.less" afterPath="" />
+    <list default="true" id="40adb385-302b-44b3-930a-5921c5106fea" name="Default" comment="add ga">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
+    <list id="6b830e4c-4e35-413f-afb5-8e9dd9a4994b" name="Rejected commit: Default" comment="add ga" />
     <ignored path="Rb-ui.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/README.md" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1372034238834" ignored="false" />
@@ -12,7 +12,7 @@
     <file path="/Rb-ui.less" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370614132772" ignored="false" />
     <file path="/style.css" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1371307089810" ignored="false" />
     <file path="/ui-form.less" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1371158836375" ignored="false" />
-    <file path="/index.html" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1371520841030" ignored="false" />
+    <file path="/index.html" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1372038459407" ignored="false" />
     <file path="/dummy.xml" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1371520780227" ignored="false" />
     <file path="D:/Projeto/SSG_PROJETO/SSG_GISSONLINE/SSG.APP/view/AcessoSistema/login.html" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370456629172" ignored="false" />
     <file path="/login.html" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370456628837" ignored="false" />
@@ -22,7 +22,7 @@
     <file path="D:/Projeto/SSG_PROJETO/SSG_GISSONLINE/SSG.APP/css/login.css" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370457415213" ignored="false" />
     <file path="/login.css" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370457387371" ignored="false" />
     <file path="D:/Projeto/SSG_PROJETO/SSG_GISSONLINE/SSG.APP/css/login.min.css" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370457416641" ignored="false" />
-    <file path="/Dummy.txt" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1372034285079" ignored="false" />
+    <file path="/Dummy.txt" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1372038466103" ignored="false" />
     <file path="/variables.less" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370468008826" ignored="false" />
     <file path="/responsiveboilerplate.less" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1370611092670" ignored="false" />
     <file path="/Rb-ui.css" changelist="40adb385-302b-44b3-930a-5921c5106fea" time="1371153702666" ignored="false" />
@@ -73,19 +73,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="35" selection-start="1175" selection-end="1175" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.60229445">
+            <state line="182" column="49" selection-start="10146" selection-end="10146" vertical-scroll-proportion="0.58835757">
               <folding />
             </state>
           </provider>
@@ -105,8 +96,14 @@
         <option value="spac" />
       </list>
     </option>
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="SYNC_SETTING" value="DONT" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="GitLogSettings">
     <option name="myStructureFilterPaths" />
@@ -115,8 +112,8 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ui-interface-jquery.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/js/custom.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ui-interface-jquery.html" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -135,8 +132,8 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/responsiveboilerplate.css" />
         <option value="$PROJECT_DIR$/css/Rb-ui.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -216,20 +213,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Rb-ui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Rb-ui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="less" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -237,13 +220,13 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="C:/Program Files (x86)/Git/bin/git.exe" />
+    <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/Git/bin/git.exe" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig" serverName="SERVERIN" serverId="979c4760-d788-46b0-8ab3-97ef71985cd8">
     <servers>
@@ -381,18 +364,26 @@
       <created>1372034277738</created>
       <updated>1372034277738</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add ga">
+      <created>1372038416705</created>
+      <updated>1372038416705</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add ga">
+      <created>1372038469419</created>
+      <updated>1372038469419</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1384" height="738" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.021276595" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33441034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24980111" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23678333" sideWeight="0.6719858" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23678333" sideWeight="0.9787234" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37102473" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17730497" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -450,7 +441,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add contributors calling!" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ga" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -469,6 +460,7 @@
     <MESSAGE value="General space adjust" />
     <MESSAGE value="General space adjust and add some description lines" />
     <MESSAGE value="Add contributors calling!" />
+    <MESSAGE value="add ga" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -543,16 +535,16 @@
         <state line="13" column="59" selection-start="501" selection-end="501" vertical-scroll-proportion="0.50932837" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="35" selection-start="1175" selection-end="1175" vertical-scroll-proportion="0.0">
+        <state line="21" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.60229445">
+        <state line="182" column="49" selection-start="10146" selection-end="10146" vertical-scroll-proportion="0.58835757">
           <folding />
         </state>
       </provider>
